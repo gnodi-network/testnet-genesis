@@ -3,6 +3,6 @@
     "totalSupply": 11000000000000, 
     "accounts": [
         { "email": "christian.brotherson@gmail.com", "name": "Christian", "address": "gnodi13zj88zcylclhevtsztx0kdgf9a5zyskt8psewm", "amount": 10000000000000, "stake": 500000000000 },
-        { "email": "christian.brotherson+1@gmail.com", "name": "Christian", "address": "gnodi123rrlkgu8syvxwflyk7nr8yclhwh07et20jlsm", "amount": 1000000000000, "stake": 990000000000 }
+        { "email": "christian.brotherson+1@gmail.com", "name": "Christian", "address": "gnodi160l4xetycva07kvktd276ahyu32uk2klmk6r6a", "amount": 1000000000000, "stake": 990000000000 }
     ]
 }
