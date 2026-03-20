@@ -2,6 +2,7 @@
 	"environment": "devnet",
 	"moniker": "gnodi",
 	"chainId": "gnodi",
+	"evmChainId": "4466344",
 	"symbol": "GNOD",
 	"microDenom": "uGNOD",
 	"decimals": 6,
