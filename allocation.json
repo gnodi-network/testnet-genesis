@@ -2,7 +2,7 @@
     "denom": "GNOD",
     "totalSupply": 11000000000000, 
     "accounts": [
-        { "email": "christian.brotherson@gmail.com", "name": "Christian", "address": "gnodi1dz90dnylax5fvn9wzhrfln2ha73nehzvvr3hyz", "amount": 10000000000000, "stake": 500000000000 },
+        { "email": "christian.brotherson@gmail.com", "name": "Christian", "address": "gnodi13zj88zcylclhevtsztx0kdgf9a5zyskt8psewm", "amount": 10000000000000, "stake": 500000000000 },
         { "email": "christian.brotherson+1@gmail.com", "name": "Christian", "address": "gnodi123rrlkgu8syvxwflyk7nr8yclhwh07et20jlsm", "amount": 1000000000000, "stake": 990000000000 }
     ]
 }
